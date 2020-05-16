@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Ye-eun Kim's Portfolio
 
-You can use the [editor on GitHub](https://github.com/Ye-eun-Kim/Portfolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+There are some works done by Ye-eun Kim
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
